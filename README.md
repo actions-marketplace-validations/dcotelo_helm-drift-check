@@ -231,7 +231,7 @@ spec.template.spec.containers[0].resources.limits.memory
 
 ---
 **📋 Summary:** 1 out of 2 files have changes for review
-```
+
 
 ## 🔒 Requirements
 
